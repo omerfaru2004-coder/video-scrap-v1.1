@@ -1,0 +1,7 @@
+opencv-python>=4.8
+pillow>=10.0
+numpy>=1.24
+mcp>=2.0
+yt-dlp
+scenedetect>=0.6
+imageio-ffmpeg>=0.5

@@ -1,0 +1,2 @@
+# Gelistirme bagimliliklari (uygulama calismasi icin gerekmez)
+pytest>=8
