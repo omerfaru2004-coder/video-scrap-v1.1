@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+libs/
+videolar/
+calisma/
+indirilenler/
+ayarlar.json
+*.log
+*.bak
